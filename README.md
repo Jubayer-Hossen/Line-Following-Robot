@@ -116,4 +116,3 @@ Jubayer Hossen
 ## Acknowledgments
 
 - Thanks to the Arduino community for their valuable resources
-- Special thanks to contributors and testers
